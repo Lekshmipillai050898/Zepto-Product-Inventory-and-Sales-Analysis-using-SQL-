@@ -241,5 +241,3 @@ Use weight segmentation to plan packaging, storage, and transportation more effi
  Demand Forecasting:
 
 Monitor stock levels for high-MRP items to prevent future stockouts.
-
-✅ Business Impact
